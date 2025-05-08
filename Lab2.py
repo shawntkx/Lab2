@@ -27,3 +27,35 @@ def calc_min_max_temperature(float_list):
 
 if __name__ =="__main__":
  main()
+
+## Teacher's copy
+#def display_main_menu():
+# print("Enter some numbers separated by commas (e.g. 5, 67,32)")
+# return
+
+#def get_user_input()
+#   input_data=input()
+#   .
+#   .
+#   .
+#   return float_list
+
+#def calc_average(temp_list):
+#   avg_value=temp_list.sum()/temp_list.len()
+#   return avg_value
+
+#def main():
+#   display_main_menu()
+#   temp_list=get_user_input()
+#   avg_value=calc_average(temp_list)
+#   print("Average Temperature: ", avg_value)
+#   min_max=find_min_max(temp_list)
+#   print("Min & Max: ", min_max[0], min_max[1])
+#   sorted_list=sort_temperature(temp_list)
+#   print("sorted temperature list ", sorted_list)
+#   median_value=cal_median_temperature(temp_list)
+#   print("Median Temperature value: ", median_value)
+#   return
+
+#if __name__ =="__main__":
+#   main()
